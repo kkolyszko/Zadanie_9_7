@@ -1,0 +1,8 @@
+porównanie dwóch opcji - dlaczego czcionka jest inna?
+nie za bradzo rozumiem o co chodzi z tym parametrem e
+w zadaniu-grze brakowa³o dopisania funkcji setGamePoints do playerPick
+
+kiedy siê daje œrednik, a kiedy nie
+o co chodzi z boilerplate
+
+"Funkcja podpiêta do zdarzenia ma przekazany obiekt, który trzyma informacjê o tym zdarzeniu - event object. Przyk³adowo, jeœli chcemy wiedzieæ, którym przyciskiem myszki zosta³ klikniêty przycisk, mo¿emy spojrzeæ na w³aœciwoœæ event.which." what?
